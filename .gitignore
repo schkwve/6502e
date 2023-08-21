@@ -28,11 +28,7 @@ build/
 *.in
 
 autom4te.cache/
-config.guess
-config.sub
 configure~
-depcomp
-missing
 Makefile
 src/Makefile
 include/Makefile
