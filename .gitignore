@@ -1,0 +1,46 @@
+.vscode/
+build/
+build-aux/*
+!build-aux/.gitkeep
+
+# Totally legally acquired ROMs
+roms/*
+!roms/.gitkeep
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.swp
+*.DS_Store
+*.in
+
+autom4te.cache/
+config.guess
+config.sub
+configure~
+depcomp
+missing
+Makefile
+src/Makefile
+include/Makefile
+
+.deps
