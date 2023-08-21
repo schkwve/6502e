@@ -25,12 +25,8 @@ build/
 
 *.swp
 *.DS_Store
-*.in
 
 autom4te.cache/
 configure~
-Makefile
-src/Makefile
-include/Makefile
 
 .deps
