@@ -1,11 +1,5 @@
 .vscode/
 build/
-build-aux/*
-!build-aux/.gitkeep
-
-# Totally legally acquired ROMs
-roms/*
-!roms/.gitkeep
 
 # Compiled Object files
 *.slo
